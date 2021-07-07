@@ -1,0 +1,11 @@
+C:\Users\Boqie Zhang\source\repos\BNI_UDP_JSON\BNI_UDP\bin\Debug\BNI_UDP_JSON.exe.config
+C:\Users\Boqie Zhang\source\repos\BNI_UDP_JSON\BNI_UDP\bin\Debug\BNI_UDP_JSON.exe
+C:\Users\Boqie Zhang\source\repos\BNI_UDP_JSON\BNI_UDP\bin\Debug\BNI_UDP_JSON.pdb
+C:\Users\Boqie Zhang\source\repos\BNI_UDP_JSON\BNI_UDP\obj\Debug\BNI_UDP.Form1.resources
+C:\Users\Boqie Zhang\source\repos\BNI_UDP_JSON\BNI_UDP\obj\Debug\BNI_UDP_JSON.Properties.Resources.resources
+C:\Users\Boqie Zhang\source\repos\BNI_UDP_JSON\BNI_UDP\obj\Debug\BNI_JSON.csproj.GenerateResource.cache
+C:\Users\Boqie Zhang\source\repos\BNI_UDP_JSON\BNI_UDP\obj\Debug\BNI_JSON.csproj.CoreCompileInputs.cache
+C:\Users\Boqie Zhang\source\repos\BNI_UDP_JSON\BNI_UDP\obj\Debug\BNI_JSON.csproj.CopyComplete
+C:\Users\Boqie Zhang\source\repos\BNI_UDP_JSON\BNI_UDP\obj\Debug\BNI_UDP_JSON.exe
+C:\Users\Boqie Zhang\source\repos\BNI_UDP_JSON\BNI_UDP\obj\Debug\BNI_UDP_JSON.pdb
+C:\Users\Boqie Zhang\source\repos\BNI_UDP_JSON\BNI_UDP\obj\Debug\BNI_JSON.csprojAssemblyReference.cache
