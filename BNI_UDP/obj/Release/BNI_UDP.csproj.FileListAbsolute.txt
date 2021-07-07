@@ -1,0 +1,10 @@
+C:\Users\Boqie Zhang\source\repos\BNI_UDP\BNI_UDP\bin\Release\BNI_UDP.exe.config
+C:\Users\Boqie Zhang\source\repos\BNI_UDP\BNI_UDP\bin\Release\BNI_UDP.exe
+C:\Users\Boqie Zhang\source\repos\BNI_UDP\BNI_UDP\bin\Release\BNI_UDP.pdb
+C:\Users\Boqie Zhang\source\repos\BNI_UDP\BNI_UDP\obj\Release\BNI_UDP.Form1.resources
+C:\Users\Boqie Zhang\source\repos\BNI_UDP\BNI_UDP\obj\Release\BNI_UDP.Properties.Resources.resources
+C:\Users\Boqie Zhang\source\repos\BNI_UDP\BNI_UDP\obj\Release\BNI_UDP.csproj.GenerateResource.cache
+C:\Users\Boqie Zhang\source\repos\BNI_UDP\BNI_UDP\obj\Release\BNI_UDP.csproj.CoreCompileInputs.cache
+C:\Users\Boqie Zhang\source\repos\BNI_UDP\BNI_UDP\obj\Release\BNI_UDP.exe
+C:\Users\Boqie Zhang\source\repos\BNI_UDP\BNI_UDP\obj\Release\BNI_UDP.pdb
+C:\Users\Boqie Zhang\source\repos\BNI_UDP\BNI_UDP\obj\Release\BNI_UDP.csprojAssemblyReference.cache
